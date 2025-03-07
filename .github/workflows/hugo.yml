@@ -32,7 +32,9 @@ jobs:
           hugo-version: 'latest'
           extended: true
       - name: Build with Hugo
-        run: hugo --minify
+        env:
+          HUGO_BASEURL: 'https://arranwalshe.github.io/qubara.consulting/'
+        run: hugo --minify --baseURL "$HUGO_BASEURL"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
