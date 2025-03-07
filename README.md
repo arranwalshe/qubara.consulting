@@ -1,2 +1,0 @@
-# qubara.consulting
-Qubara Website
