@@ -1,0 +1,15 @@
+baseURL = 'https://qubara.consulting/'
+languageCode = 'en-us'
+title = 'Qubara Consulting'
+theme = 'ananke'
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "Your consulting expertise, delivered."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+  mainSections = []  # This will prevent posts from showing on the homepage 
