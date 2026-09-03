@@ -1,4 +1,4 @@
-baseURL = 'https://arranwalshe.github.io/qubara.consulting/'
+baseURL = 'https://qubara.consulting/'
 languageCode = 'en-us'
 title = 'Qubara Consulting'
 theme = 'ananke'
