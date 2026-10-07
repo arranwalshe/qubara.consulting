@@ -3,3 +3,5 @@ inbox/*
 !inbox/README.md
 # Claude notes stay on the computer: this repo is public
 .claude/
+
+.DS_Store
